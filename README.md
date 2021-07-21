@@ -1,7 +1,7 @@
 # DIO.Series
 <h2>Digital Innovation: Criando um APP simples de cadastro de séries em .NET</h2>
 
-Nesta projeto foi desenvolvido um pequeno sistema CRUD para o gerenciamento de séries em .NET.
+Neste projeto foi desenvolvido um pequeno sistema CRUD para o gerenciamento de séries em .NET.
 
 Foram desenvolvidos e abordados os seguintes tópicos:
 
